@@ -1,0 +1,5 @@
+# Doppelte ZIP-Archive ignorieren
+**/*.zip
+
+# Mac-Systemdateien blockieren
+**/.DS_Store
